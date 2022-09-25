@@ -1,4 +1,5 @@
-   {
+{   
+{
         ui: 'AB',
         ss_score: 9,
         risk: 30,
@@ -6,8 +7,10 @@
         delta: '-10',
         service_duration: '3 months, 5 days',
         //_cellProps: { id: { scope: 'row' } }
-    },
+    }
+},
     {
+       {
         ui: 'CD',
         ss_score: 15,
         risk: 0,
@@ -15,8 +18,10 @@
         delta: '+100',
         service_duration: '8 months, 9 days',
         //_cellProps: { id: { scope: 'row' } }
+    }
     },
     {
+       {
         ui: 'EF',
         ss_score: 40,
         risk: 60,
@@ -25,3 +30,4 @@
         service_duration: '1 Year',
         //_cellProps: { id: { scope: 'row' } }
     }
+}
