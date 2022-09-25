@@ -6,22 +6,4 @@
         "last_login:" "5 hours ago",
         "delta:" "-10",
         "service_duration:" "3 months, 5 days"
-    },
-       {
-        "ui:" "CD",
-        "ss_score:" 15,
-        "risk:" 0,
-        "last_login:" "Last week",
-        "delta:" "+100",
-        "service_duration:" "8 months, 9 days",
-    },
-    
-       {
-        "ui:" "EF",
-        "ss_score:" 40,
-        "risk:" 60,
-        "last_login:" "30 sec ago",
-        "delta:" "-200",
-        "service_duration:" "1 Year",
     }
-
