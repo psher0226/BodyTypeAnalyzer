@@ -1,0 +1,27 @@
+   {
+        ui: 'AB',
+        ss_score: 9,
+        risk: 30,
+        last_login: '5 hours ago',
+        delta: '-10',
+        service_duration: '3 months, 5 days',
+        //_cellProps: { id: { scope: 'row' } }
+    },
+    {
+        ui: 'CD',
+        ss_score: 15,
+        risk: 0,
+        last_login: 'Last week',
+        delta: '+100',
+        service_duration: '8 months, 9 days',
+        //_cellProps: { id: { scope: 'row' } }
+    },
+    {
+        ui: 'EF',
+        ss_score: 40,
+        risk: 60,
+        last_login: '30 sec ago',
+        delta: '-200',
+        service_duration: '1 Year',
+        //_cellProps: { id: { scope: 'row' } }
+    }
